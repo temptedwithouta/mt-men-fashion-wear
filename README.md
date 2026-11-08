@@ -19,6 +19,41 @@ We offer a curated selection of **shirts**, **pants**, and other fashion essenti
 - **CSS3** – Responsive and modern styling
 - **JavaScript (ES6)** – Light interactivity
 
+## Project Structure
+```text
+.
+├── index.html
+├── pages/
+│   ├── about.html
+│   ├── clothes.html
+│   ├── locations.html
+│   └── subscribe.html
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│       ├── about/
+│       ├── clothes/
+│       ├── home/
+│       ├── locations/
+│       ├── preview/
+│       └── subscribe/
+└── data/
+	└── subscribe/
+		├── subscribe.svg
+		└── subscribe.xsd
+```
+
+## Pages
+- Home: `index.html`
+- Clothes: `pages/clothes.html`
+- About Us: `pages/about.html`
+- Locations: `pages/locations.html`
+- Subscribe: `pages/subscribe.html`
+
+## Run Locally
+Open `index.html` in a browser. This static site has no installation or build step and can also be hosted by any static file server.
+
 ---
 
 ## 📸 Preview
