@@ -603,7 +603,7 @@ button.white {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  background-image: url("img/banner/newsletter.png");
+  background-image: url("../images/about/banner/newsletter.png");
   background-color: #041e42;
   /* background-position: 20% 30%;
   background-repeat: no-repeat; */
